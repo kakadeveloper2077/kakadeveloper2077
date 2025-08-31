@@ -7,8 +7,8 @@
 
 ##  My Status
 
-![Kayky's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakadeveloper2077&show_icons=true&theme=tokyonight) ![GitHub Streak](https://streak-stats.demolab.com?user=kakadeveloper2077&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakadeveloper2077&layout=compact&theme=tokyonight)
+![Kayky's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakadeveloper2077&show_icons=true&theme=tokyonight) ![GitHub Streak](https://streak-stats.demolab.com?user=kakadeveloper2077&theme=tokyonight&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakadeveloper2077&layout=compact&theme=tokyonight)
+
 
 
 
