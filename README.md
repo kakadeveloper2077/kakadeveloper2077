@@ -7,8 +7,11 @@
 
 ##  My Status
 
+<div style="text-align: center;">
+  
 ![Kayky's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakadeveloper2077&show_icons=true&theme=tokyonight) 
 
+</div>
 
 
 
