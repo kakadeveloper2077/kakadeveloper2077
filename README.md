@@ -1,4 +1,4 @@
-### Olá eu sou o Kayky Antonio 🖐️
+### Olá eu sou o Kayky Antonio 🖐️ 🇧🇷 🇺🇸
 🚀 Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia. 
 ### Iniciei meus estudos com a programação com meus 15 anos de idade, hoje com meus 20 anos eu estou cursando Análise e Desenvolvimento de Sistemas pela UNIASSELVI no quarto semestre, meus interesses são, conseguir algum emprego como estagiário em desenvolvimento web, e me tornar um programador fullstack.
 
