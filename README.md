@@ -19,5 +19,3 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-![Kayky's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakadeveloper2077&show_icons=true&theme=tokyonight) 
-
