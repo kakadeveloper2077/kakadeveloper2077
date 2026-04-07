@@ -12,3 +12,19 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+# ⚡ Kayky Antonio | Back-end Developer Student
+
+> "Transformando café em APIs eficientes."
+
+### 🛠️ Tecnologias
+- **Linguagem:** JavaScript (Node.js)
+- **Framework:** Express.js
+- **Banco de Dados:** MySQL
+- **Arquitetura:** REST APIs
+
+### 🧰 Ferramentas
+`VS Code` | `Git` | `Postman` | `Docker (Estudando)`
+
+---
