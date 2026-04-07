@@ -1,5 +1,6 @@
-### Olá eu sou o Kayky Antonio 🖐️ <img src="https://flagcdn.com/w20/br.png" width="20"/> <img src="https://flagcdn.com/w20/us.png" width="20"/>
+# Olá eu sou o Kayky Antonio 🖐️ 
 🚀 Estudante de Análise e Desenvolvimento de Sistemas, focado em estudos no desenvolvimento backend.
+<hr>
 
 ⚙️ Back-end: <br>
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -14,17 +15,3 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-# ⚡ Kayky Antonio | Back-end Developer Student
-
-> "Transformando café em APIs eficientes."
-
-### 🛠️ Tecnologias
-- **Linguagem:** JavaScript (Node.js)
-- **Framework:** Express.js
-- **Banco de Dados:** MySQL
-- **Arquitetura:** REST APIs
-
-### 🧰 Ferramentas
-`VS Code` | `Git` | `Postman` | `Docker (Estudando)`
-
----
