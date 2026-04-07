@@ -1,6 +1,5 @@
 # Olá eu sou o Kayky Antonio 🖐️ 
 🚀 Estudante de Análise e Desenvolvimento de Sistemas, focado em estudos no desenvolvimento backend.
-<hr>
 
 ⚙️ Back-end: <br>
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
