@@ -1,6 +1,6 @@
 ## Olá eu sou o Kayky Antonio 🖐️ 
 ### 💻 Estudante de Análise e Desevolvimento de Sistemas, Focado no backend.
-### 💎 Meu Objetivo é me especializar no backend o suficiente para fazer projetos que comprovem além de minha habilidade, o meu aprendizado também, ao ponto de fazer sistemas voltados pro mesmo totalmente do 0, como se eu tocasse um piano.
+### 💎 Meu Objetivo é me especializar no backend o suficiente para fazer projetos que comprovem além de minha habilidade, o meu aprendizado também, ao ponto de fazer sistemas voltados para o backend completamente do 0, como se eu tocasse um piano.
 ### ⚙️Back-end: <br>
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![REST API](https://img.shields.io/badge/API-REST-000000?style=for-the-badge&logo=api&logoColor=white)
 
