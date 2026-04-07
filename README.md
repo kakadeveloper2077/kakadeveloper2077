@@ -1,6 +1,5 @@
 ### Olá eu sou o Kayky Antonio 🖐️ <img src="https://flagcdn.com/w20/br.png" width="20"/> <img src="https://flagcdn.com/w20/us.png" width="20"/>
-🚀 Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia. 
-### Iniciei meus estudos com a programação com meus 15 anos de idade, hoje com meus 21 anos eu estou cursando Análise e Desenvolvimento de Sistemas pela UNIASSELVI no início do ultimo semestre, meus interesses são, conseguir algum emprego como estagiário em desenvolvimento backend.
+🚀 Estudante de Análise e Desenvolvimento de Sistemas, focado em estudos no desenvolvimento backend.
 
 ⚙️ Back-end: <br>
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
