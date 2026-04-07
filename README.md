@@ -1,4 +1,5 @@
-# Olá eu sou o Kayky Antonio 🖐️ | Estudante de ADS / Backend DEV
+# Olá eu sou o Kayky Antonio 🖐️ 
+### Estudante de Análise e Desevolvimento de Sistemas, Focado no Backend.
 ### Back-end: <br>
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![REST API](https://img.shields.io/badge/API-REST-000000?style=for-the-badge&logo=api&logoColor=white)
 
